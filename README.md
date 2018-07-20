@@ -28,25 +28,25 @@ To use it, you have to run the app.js file, then specify the options:
 node .\app.js --ci Valencia
 ```
 Returns:
-The weather prevision for Valencia is:
-            Temperature: 25.05º
-            Apparent Temperature: 25.76º
-            Rain probability: 0%
-            Humidity: 83%
-            Wind Speed: 1.93km/h
-            Sky: Partly Cloudy
+The weather prevision for Valencia is:<br>
+            Temperature: 25.05º<br>
+            Apparent Temperature: 25.76º<br>
+            Rain probability: 0%<br>
+            Humidity: 83%<br>
+            Wind Speed: 1.93km/h<br>
+            Sky: Partly Cloudy<br>
 
 ```
 node .\app.js --ci California -la es
 ```
-Returns:
-La previsión del tiempo en California es de:
-            Temperatura: 38.24º
-            Sensación Térmica: 38.24º
-            Probabilidad de lluvia: 0%
-            Humedad: 22%
-            Velocidad del viento: 2.04km/h
-            Cielo: Despejado
+Returns:<br>
+La previsión del tiempo en California es de:<br>
+            Temperatura: 38.24º<br>
+            Sensación Térmica: 38.24º<br>
+            Probabilidad de lluvia: 0%<br>
+            Humedad: 22%<br>
+            Velocidad del viento: 2.04km/h<br>
+            Cielo: Despejado<br>
 
 
 (More options coming in the future)
