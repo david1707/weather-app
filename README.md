@@ -56,7 +56,8 @@ La previsión del tiempo en California es de:<br>
 
 ## Translations
 
-Right now I only english, catalan and spanish languages are available. If you want to add a language, make a request. Languages available are here (https://darksky.net/dev/docs#/dev/docs)
+Right now only english, catalan and spanish languages are available. If you want to add a language, make a request.
+Languages available are here (https://darksky.net/dev/docs#/dev/docs)
 
 
 ## Built With
