@@ -27,7 +27,8 @@ To use it, you have to run the app.js file, then specify the options:
 ```
 node .\app.js --ci Valencia
 ```
-Returns:
+Returns the weather in València:
+
 The weather prevision for Valencia is:<br>
             Temperature: 25.05º<br>
             Apparent Temperature: 25.76º<br>
@@ -39,7 +40,8 @@ The weather prevision for Valencia is:<br>
 ```
 node .\app.js --ci California -la es
 ```
-Returns:<br>
+Returns the weather in California in spanish:
+
 La previsión del tiempo en California es de:<br>
             Temperatura: 38.24º<br>
             Sensación Térmica: 38.24º<br>
